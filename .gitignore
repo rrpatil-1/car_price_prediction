@@ -8,7 +8,7 @@ wheels/
 app.log
 # Virtual environments
 .venv
-
+venv
 #folder
 logs
 
