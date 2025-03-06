@@ -1,0 +1,8 @@
+scikit-learn
+xgboost
+catboost
+dill
+fastapi
+uvicorn
+pandas
+seaborn
