@@ -11,7 +11,8 @@ This project aims to predict car prices using machine learning models.
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/rrpatil-1/car_price_prediction.git
+    
     cd car_price_prediction
     ```
 
